@@ -1,0 +1,15 @@
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\bin\Debug\net6.0\Revisao.exe
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\bin\Debug\net6.0\Revisao.deps.json
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\bin\Debug\net6.0\Revisao.dll
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\bin\Debug\net6.0\ref\Revisao.dll
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\bin\Debug\net6.0\Revisao.pdb
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\obj\Debug\net6.0\Revisao.dll
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\obj\Debug\net6.0\ref\Revisao.dll
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\obj\Debug\net6.0\Revisao.pdb
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Projeto c#\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache

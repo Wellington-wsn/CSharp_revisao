@@ -124,6 +124,7 @@ namespace Revisao
             }
             else
             {
+                Console.WriteLine();
                 Console.WriteLine("Digite uma das opções do menu!");
                 Console.WriteLine("-----");
                 Console.WriteLine();
